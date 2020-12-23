@@ -7,7 +7,6 @@
 * Definir si es necesario recibir token cuando se actualiza un user
 * Configurar CORS en caso de ser necesario
 * Configurar NODEMAILER
-
 ## Cosas que considero que faltan
 
 * Separar funciones sobre la DB de el Controller
